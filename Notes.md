@@ -18,5 +18,9 @@ In order to use React, npm and Node.js need to be installed
 
 **Open React App:** localhost:3000 in web browser
 
+## Upgrade React
+**Install Latest:** npm i react@latest react-dom@latest
+
+
 
 
