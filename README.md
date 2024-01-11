@@ -1,5 +1,5 @@
-# React.js Exercises
+# ReactJS Exercises
 
-## I am currently in the process of learning React.js and I am documenting everything that I am learning here
+I am currently in the process of learning ReactJS and I am documenting everything that I am learning here
 
-**Currently Working on:** React Introduction
+**Currently Working on:** React ES6
